@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Packaging / testing
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
